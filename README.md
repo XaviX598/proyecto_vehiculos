@@ -86,4 +86,3 @@ La interfaz permite:
 El proyecto no fue desplegado en la nube.
 
 Se evaluó realizar el despliegue del backend en Oracle, pero el proceso de publicación y configuración requería más tiempo del disponible para la entrega. Por esa razón, se priorizó dejar documentada de forma clara la ejecución local del sistema para facilitar su revisión y validación funcional.
-# proyecto_vehiculos
