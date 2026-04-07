@@ -1,0 +1,53 @@
+﻿:root {
+  font-family: Arial, sans-serif;
+  color: #111827;
+  background: #f3f4f6;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 24px;
+  background: white;
+  border-radius: 12px;
+}
+
+.actions,
+.add-form {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+button,
+select,
+input {
+  padding: 8px 12px;
+}
+
+label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #d1d5db;
+  padding: 12px;
+  text-align: left;
+}
+
+.error {
+  color: #b91c1c;
+}
